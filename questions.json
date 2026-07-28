@@ -1,4 +1,9 @@
 [
+  [
+  ["Professional", "Alignments", "New Professional Question 1?", ["A", "B", "C", "D"], 0, "Explanation"],
+  ["Professional", "Surfaces", "New Professional Question 2?", ["A", "B", "C", "D"], 2, "Explanation"],
+  ["Beginner", "General", "Existing Beginner Question 1?", ["A", "B", "C", "D"], 1, "Explanation"],
+  ["Intermediate", "Pipe Networks", "Existing Intermediate Question 2?", ["A", "B", "C", "D"], 3, "Explanation"]
 [
 "Beginner",
 "Points",
